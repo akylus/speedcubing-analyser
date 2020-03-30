@@ -5,4 +5,6 @@ This project utilizes the stats received as a JSON file from <a href="http://cst
 
 Just point the folder where the file is located, on the first line of the code and let the code do its magic.
 
+(Find an attached cstimer file for testing the project)
+
 ## Screenshots
