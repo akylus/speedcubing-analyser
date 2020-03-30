@@ -8,3 +8,6 @@ Just point the folder where the file is located, on the first line of the code a
 (Find an attached cstimer file for testing the project)
 
 ## Screenshots
+<img src="ao5.png" alt="screenshot" width="100%"/>
+<img src="ao12.png" alt="screenshot" width="100%"/>
+<img src="every-solve.png" alt="screenshot" width="100%"/>
