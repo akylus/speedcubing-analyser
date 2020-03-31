@@ -15,7 +15,9 @@ import json
 # In[61]:
 
 
-downloadlist = os.listdir("/Users/kaust/Downloads")
+downloadlist = os.listdir(
+    #<FileLocation>
+)
 cstimerfiles = []
 for x in downloadlist:
     if x.startswith('cstimer'):
